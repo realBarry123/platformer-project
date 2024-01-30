@@ -2,7 +2,7 @@
 // block limit: 2000
 FWorld world;
 
-int level = 3;
+int level = 0;
 int topMargin = 99;
 int leftMargin = 99;
 
